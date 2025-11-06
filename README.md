@@ -4,7 +4,7 @@
 
 I'm a passionate developer who loves bridging the gap between hardware and software. I build scalable web applications, IoT systems, and secure cloud-based solutions that solve real-world problems.
 
-### 🚀 What I Do
+###  What I Do
 
 -  Build full-stack applications with **Node.js**, **Next.js**, and **React**
 -  Design cloud-native backends using **Firebase Cloud Functions**
