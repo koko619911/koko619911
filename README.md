@@ -72,7 +72,7 @@ Automated audit and secure transfer system for store operations.
 -  kirollos.fayez.h@gmail.com
 -  Cairo, Egypt
 
-### 💡 Fun Facts
+###  Fun Facts
 
 -  Team leader with experience organizing large-scale events
 -  Always learning new technologies and best practices
