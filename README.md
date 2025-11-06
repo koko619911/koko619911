@@ -43,9 +43,6 @@ IoT solution connecting digital balances to mobile apps for real-time data track
 Automated audit and secure transfer system for store operations.
 - **Tech:** Cloud Functions, Security Protocols
 - **Benefit:** Reduced manual oversight, improved security
-###  GitHub Stats
-![Kirollos's GitHub stats](https://github-readme-stats.vercel.app/api?username=koko619911&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=koko619911&layout=compact&theme=radical)
 ###  Education
 **Bachelor's in Computer Science** - Helwan University (2020-2024)
 - Specialized in Information Systems
