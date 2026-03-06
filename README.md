@@ -2,7 +2,7 @@
 
 # Kirollos Fayez Helmy
 
-### Senior Full Stack Engineer · Firebase Architect · IoT Systems Developer
+### Full Stack Developer · Firebase Cloud Architect · IoT Systems Builder
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kirollosfayez.web.app-black?style=for-the-badge&logo=firebase&logoColor=orange)](https://kirollosfayez.web.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kirollos-fayez-65a33931a)
@@ -16,11 +16,11 @@
 
 ## About Me
 
-I'm a **Senior Full Stack Engineer** with 4+ years of experience architecting and delivering production-grade web applications, cloud-native backends, and IoT systems. I specialize in bridging hardware and software — turning complex business requirements into scalable, secure, and maintainable solutions.
+Full Stack Developer specializing in **Node.js**, **Next.js**, and **Firebase Cloud Functions**. I build scalable web applications, real-time IoT systems using Raspberry Pi, and secure REST APIs.
 
-Currently building smart enterprise solutions at **NEBU Systems Smart Solutions**, where I architect real-time IoT platforms that connect physical devices to cloud infrastructure.
+Currently working at **NEBU Systems Smart Solutions** (Cairo) — building backend systems that connect physical IoT devices to cloud infrastructure, and integrating with Egypt's official ETA e-Receipt API for compliant invoice management.
 
-> *"Great software is not about writing code — it's about solving real problems with elegant, maintainable systems."*
+Strong focus on **performance optimization**, **clean architecture**, and delivering production-ready solutions.
 
 ---
 
@@ -28,21 +28,19 @@ Currently building smart enterprise solutions at **NEBU Systems Smart Solutions*
 
 <div align="center">
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+### Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 ### Backend & Cloud
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
 ### Databases
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -50,24 +48,34 @@ Currently building smart enterprise solutions at **NEBU Systems Smart Solutions*
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-### IoT & Hardware
+### IoT & Tools
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![Real-time Sync](https://img.shields.io/badge/Real--time_Sync-00B0FF?style=flat-square&logo=googlepubsub&logoColor=white)
-
-### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Work Experience
+
+### Full Stack Developer · IoT Developer — NEBU Systems Smart Solutions
+**Cairo, Egypt · Nov 2024 – Present**
+
+- Built scalable backend systems with **Node.js** and **Firebase Cloud Functions** supporting real-time IoT data processing
+- Developed secure **REST APIs** with authentication and authorization, consumed by web and mobile apps
+- Integrated **Egypt ETA e-Receipt system** — handled compliant invoice submission, validation, and lifecycle management via official APIs
+- Optimized async logic, database queries, and request handling to reduce cloud function execution time
+- Integrated **Raspberry Pi–based IoT devices** with cloud backend for real-time data synchronization
+- Implemented **RBAC** and Firebase security rules to protect sensitive business and financial data
+
+---
+
+## 🚀 Projects
 
 ### 🌿 El-Tayib Organic — E-commerce Platform
-> Full-stack organic food e-commerce platform serving Egyptian customers with modern UX and seamless checkout.
+> Full-stack organic food e-commerce platform serving Egyptian customers.
 
 - **Stack:** Next.js · Firebase · Cloud Functions · Firestore
 - **Highlights:** Product catalog, cart system, order management, Arabic language support
@@ -76,45 +84,54 @@ Currently building smart enterprise solutions at **NEBU Systems Smart Solutions*
 ---
 
 ### 🧠 Horus Mental Health — Healthcare Platform
-> A professional mental health services platform connecting patients with licensed therapists in Egypt.
+> Mental health services platform connecting patients with licensed therapists in Egypt.
 
 - **Stack:** Next.js · Firebase · Firestore · Cloud Functions
-- **Highlights:** Therapist booking system, session management, secure patient data handling
+- **Highlights:** Therapist booking, session management, secure patient data handling
 - **Live:** [horus-mentalh.com](https://horus-mentalh.com/)
 
 ---
 
-### ⛪ Church Scout Management System
-> Enterprise-grade web platform for managing scout activities, exams, attendance, and automated workflows across multiple church branches.
+### ⛪ Church Scout Management System — 2023
+> Web platform for managing scout exams, attendance, and spiritual notes across church branches.
 
-- **Stack:** Node.js · Next.js · Firebase · Cloud Functions
-- **Highlights:** Email automation, Excel imports, NoSQL architecture, role-based access control
+- **Stack:** Node.js · Next.js · Firebase · Cloud Functions · NoSQL
+- **Highlights:** Automated daily email reminders, Excel question imports, role-based workflow
 - **Live:** [church-d97a7.web.app](https://church-d97a7.web.app/)
 
 ---
 
-### 🤖 AI Virtual Try-On System
-> AI-powered fitting solution delivering realistic virtual try-on experiences for online shoppers.
+### 🤖 AI Virtual Try-On System — 2024
+> AI-powered fitting solution combining user images with clothing for realistic virtual try-on.
 
 - **Stack:** Nano Banana API · Computer Vision · React
-- **Impact:** Significantly reduced return rates and enhanced shopping experience
+- **Impact:** Enhanced online shopping experience with accurate sizing
 - **Live:** [virtualfittinroom.web.app](https://virtualfittinroom.web.app)
 
 ---
 
-### ⚖️ Smart Balance IoT System
-> IoT solution connecting digital balances to mobile apps for real-time weight data tracking and cloud sync.
+### ⚖️ Smart Balance IoT System — 2025
+> IoT solution connecting digital balances to a mobile app for real-time weight data sync.
 
-- **Stack:** Raspberry Pi · Firebase Realtime DB · Flutter · Cloud Integration
-- **Impact:** Eliminated manual data entry errors across multiple store locations
+- **Stack:** Raspberry Pi · Firebase Realtime DB · Cloud Integration
+- **Impact:** Eliminated manual data entry errors across store locations
 
 ---
 
-### 🔒 Smart Random Audit System
-> Automated audit and secure transfer system for store operations with cryptographic security protocols.
+### 🔒 Smart Random Audit & Store Transfer System — 2025
+> Backend system automating random audits and secure code transfers between stores.
 
-- **Stack:** Firebase Cloud Functions · Encryption Protocols · Firestore
-- **Impact:** Reduced manual oversight by 80%, improved operational security
+- **Stack:** Firebase Cloud Functions · Security Protocols · Firestore
+- **Impact:** Reduced manual oversight, improved operational security
+
+---
+
+### 🧾 Egypt ETA e-Receipt Full Integration — 2026
+> Complete backend integration with Egyptian ETA e-Receipt API for compliant invoice management.
+
+- **Stack:** Node.js · Firebase Cloud Functions
+- **Highlights:** Invoice submission, validation, lifecycle management via official government APIs
+- **Focus:** Scalability, performance, clean architecture
 
 ---
 
@@ -135,27 +152,27 @@ Currently building smart enterprise solutions at **NEBU Systems Smart Solutions*
 ## 🎓 Education
 
 **Bachelor's in Computer Science** — Helwan University *(2020–2024)*
-- Specialization: Information Systems
-- Graduation Project: **AI-based Bone Fracture Detection System** *(Computer Vision · Deep Learning)*
+- Field of Study: Information Systems · Final Grade: **Good**
+- Graduation Project: **AI-based Bone Fracture Detection** *(Node.js · React)*
 
 ---
 
-## 💡 What Sets Me Apart
+## 💡 What I Bring
 
-- 🏗 I **architect** systems, not just build features — with scalability and maintainability in mind from day one
-- 🔐 Strong focus on **security**: encrypted data, role-based access, audit trails
-- 🌍 Experience with **Arabic-language systems** and Egyptian market requirements
-- 📡 Rare combination of **full-stack web + IoT hardware** expertise
-- 👥 **Team leader** with experience coordinating cross-functional teams and large-scale events
-- 🤝 **Open to:** Full-time · Freelance · Remote opportunities
+- 🏗 I think in **systems** — every project is designed for scalability and maintainability from day one
+- 🔐 Consistent focus on **security**: RBAC, Firebase rules, encrypted data, audit trails
+- 🌍 Real-world experience with **Arabic-language systems** and the Egyptian market (ETA API, local platforms)
+- 📡 Hands-on with both **full-stack web and IoT hardware** — a rare and practical combination
+- ⚡ Fast learner who delivers **production-ready code**, not just prototypes
+- 🤝 **Open to:** Full-time · Remote · Freelance opportunities
 
 ---
 
 <div align="center">
 
-### Let's Build Something Great Together
+### Open to New Opportunities
 
-**Open to senior roles, consulting, and exciting projects**
+**Let's build something great together**
 
 [![Email Me](https://img.shields.io/badge/Email_Me-kirollos.fayez.h@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirollos.fayez.h@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Message_Me-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kirollos-fayez-65a33931a)
