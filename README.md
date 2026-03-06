@@ -8,6 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kirollosfayez.web.app-black?style=for-the-badge&logo=firebase&logoColor=orange)](https://kirollosfayez.web.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kirollos-fayez-65a33931a)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201500099671)
 [![Email](https://img.shields.io/badge/Email-kirollos.fayez.h@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirollos.fayez.h@gmail.com)
 [![Location](https://img.shields.io/badge/Cairo-Egypt-green?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 [![Profile Views](https://komarev.com/ghpvc/?username=koko619911&color=orange&style=for-the-badge)](https://github.com/koko619911)
@@ -162,6 +163,7 @@ Strong focus on **performance optimization**, **clean architecture**, and delive
 
 **Let's build something great together**
 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201500099671)
 [![Email Me](https://img.shields.io/badge/Email_Me-kirollos.fayez.h@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirollos.fayez.h@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Message_Me-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kirollos-fayez-65a33931a)
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-orange?style=for-the-badge&logo=firebase&logoColor=white)](https://kirollosfayez.web.app/)
