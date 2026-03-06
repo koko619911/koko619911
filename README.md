@@ -4,6 +4,8 @@
 
 ### Full Stack Developer · Firebase Cloud Architect · IoT Systems Builder
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF8C00&center=true&vCenter=true&width=500&lines=Node.js+%26+Next.js+Developer;Firebase+Cloud+Functions+Expert;IoT+Systems+with+Raspberry+Pi;Building+Production-Ready+Systems)](https://git.io/typing-svg)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-kirollosfayez.web.app-black?style=for-the-badge&logo=firebase&logoColor=orange)](https://kirollosfayez.web.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kirollos-fayez-65a33931a)
 [![Email](https://img.shields.io/badge/Email-kirollos.fayez.h@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirollos.fayez.h@gmail.com)
@@ -132,20 +134,6 @@ Strong focus on **performance optimization**, **clean architecture**, and delive
 - **Stack:** Node.js · Firebase Cloud Functions
 - **Highlights:** Invoice submission, validation, lifecycle management via official government APIs
 - **Focus:** Scalability, performance, clean architecture
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Kirollos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=koko619911&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF8C00&icon_color=FF8C00&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=koko619911&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF8C00&text_color=ffffff)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=koko619911&theme=dark&hide_border=true&background=0d1117&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00)
-
-</div>
 
 ---
 
