@@ -70,7 +70,6 @@ Strong focus on **performance optimization**, **clean architecture**, and delive
 - Developed secure **REST APIs** with authentication and authorization, consumed by web and mobile apps
 - Integrated **Egypt ETA e-Receipt system** — handled compliant invoice submission, validation, and lifecycle management via official APIs
 - Optimized async logic, database queries, and request handling to reduce cloud function execution time
-- Integrated **Raspberry Pi–based IoT devices** with cloud backend for real-time data synchronization
 - Implemented **RBAC** and Firebase security rules to protect sensitive business and financial data
 
 ---
@@ -110,14 +109,6 @@ Strong focus on **performance optimization**, **clean architecture**, and delive
 - **Stack:** Nano Banana API · Computer Vision · React
 - **Impact:** Enhanced online shopping experience with accurate sizing
 - **Live:** [virtualfittinroom.web.app](https://virtualfittinroom.web.app)
-
----
-
-### ⚖️ Smart Balance IoT System — 2025
-> IoT solution connecting digital balances to a mobile app for real-time weight data sync.
-
-- **Stack:** Raspberry Pi · Firebase Realtime DB · Cloud Integration
-- **Impact:** Eliminated manual data entry errors across store locations
 
 ---
 
